@@ -1,5 +1,6 @@
 #!/bin/bash
 
+echo "sample python application"
 START_DATETIME=$(date +%s)
 
 COUNT=1000
